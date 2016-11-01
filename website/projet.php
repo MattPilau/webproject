@@ -29,7 +29,7 @@
 			<li id="navbar" class="normal"><a href="informations.html"> Panier </a></li> 
 			<li id="navbar" class="anormal"><a href="se_connecter.html"> Se connecter </a></li>
 			<li id="navbar" class="anormal"><a href="creer_son_compte.html"> creer un compte </a></li>
-		</ul
+		</ul>
 		<br>
 		<br>
 		<br>
